@@ -8,3 +8,4 @@ print(l)
 t=(10,20,30,'satya')
 print(t)
 t.append[0]='mugdha'
+added change for stashing
